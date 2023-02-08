@@ -13,5 +13,5 @@ Code for "Multiscale reduction clustering of vibration signals for unsupervised 
 
 * Parameters can be speicified in main1.py, mian2.py.
 * Normalized data: 3Dprinter.h5. 
-* Others: you can find the source link:  http://www.52phm.cn (Jiangnan University, China)
+* Others: the source link:  http://www.52phm.cn (Jiangnan University, China)
 
