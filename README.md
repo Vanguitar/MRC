@@ -1,7 +1,7 @@
 # MRC
 Code for "Multiscale reduction clustering of vibration signals for unsupervised diagnosis of machine faults''
 
-# Please cite this paper if the code is helpful
+# Please cite this paper if helpful
 Yifan Wu, Chuan Li, Shuai Yang, Yun Bai,
 Multiscale reduction clustering of vibration signals for unsupervised diagnosis of machine faults,
 Applied Soft Computing,
