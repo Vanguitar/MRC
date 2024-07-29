@@ -1,5 +1,7 @@
 # MRC
 Code for "Multiscale reduction clustering of vibration signals for unsupervised diagnosis of machine faults''
+
+# The illustration
 ![image](https://github.com/user-attachments/assets/02c5a7eb-3746-40cc-8c9b-671051a0f94b)
 
 # Please cite this paper
