@@ -1,5 +1,6 @@
 # MRC
 Code for "Multiscale reduction clustering of vibration signals for unsupervised diagnosis of machine faults''
+![image](https://github.com/user-attachments/assets/02c5a7eb-3746-40cc-8c9b-671051a0f94b)
 
 # Please cite this paper
 Yifan Wu, Chuan Li, Shuai Yang, Yun Bai,
