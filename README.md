@@ -12,7 +12,7 @@ ISSN 1568-4946,
 https://doi.org/10.1016/j.asoc.2023.110358.
 (https://www.sciencedirect.com/science/article/pii/S1568494623003769)
 
-'''
+```bibtex
 @article{WU2023110358,
 title = {Multiscale reduction clustering of vibration signals for unsupervised diagnosis of machine faults},
 journal = {Applied Soft Computing},
