@@ -23,7 +23,7 @@ issn = {1568-4946},
 doi = {https://doi.org/10.1016/j.asoc.2023.110358},
 url = {https://www.sciencedirect.com/science/article/pii/S1568494623003769},
 author = {Yifan Wu and Chuan Li and Shuai Yang and Yun Bai}
-
+```
 # Abstract
 Fault diagnosis is of great importance for the intelligent health management of mechanical systems. For engineering applications, it is very difficult to collect and label vibration signals corresponding to machine faults. Due to the complicated operational environment, moreover, useful and critical features are often covered by surrounding noise. For those reasons, a multiscale reduction clustering (MRC) method is proposed for the unsupervised diagnosis of machine faults. In the present approach, vibration signals were collected to generate multiscale convolutional representation through a one-dimensional convolutional neural network without prior knowledge of signal processing techniques. Chosen by a convolutional encoder, the dimensionality of the multiscale convolutional representation was reduced for improving the clustering capability. During this dimensionality reduction, a loss function was proposed to optimize the network and speed up the convergence of the diagnostics. The proposed method was evaluated by two benchmark datasets and an experimental setup. With the present method, the clustering accuracy and normalized mutual information for three datasets are all over 0.91 and 0.82, respectively. Results show that the addressed MRC has superior diagnosis ability under the unsupervised fashion compared to other state-of-the-art models. It is proved that MRC is robust for the diagnosis tasks under different working conditions.
 # Keywords
